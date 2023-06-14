@@ -26,3 +26,5 @@ print(res)
 
 res = div_func(num1, num2)
 print(res)
+
+print('고생하셨습니다 완성')
